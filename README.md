@@ -208,9 +208,4 @@ python src/screen.py
 
 ## 👤 Author
 
-**[Your Name]**  
-ML & NLP Internship Candidate  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
-
----
-*FUTURE_ML_03 | HireIQ | Internship Portfolio Project | 2025*
+**Lungisani Mnyandu**  
