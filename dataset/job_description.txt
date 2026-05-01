@@ -1,0 +1,27 @@
+Job Title: Data Analyst
+Company: NovaTech Analytics — a fast-growing SaaS analytics company
+
+We are seeking a skilled Data Analyst to join our Business Intelligence team.
+You will work closely with product, marketing, and operations teams to transform raw data into actionable insights.
+
+Requirements:
+- Proficiency in Python and SQL for data analysis and querying
+- Experience with Excel and Google Sheets for reporting
+- Knowledge of Power BI or Tableau for dashboard development
+- Understanding of Machine Learning concepts and statistical analysis
+- Familiarity with Cloud platforms (AWS or GCP preferred)
+- Experience with data cleaning, data wrangling, and ETL pipelines
+- Strong communication and presentation skills
+- Ability to manage projects and meet deadlines (Project Management)
+- Experience with Git version control
+- Knowledge of statistics, regression, and predictive modeling
+
+Preferred Qualifications:
+- Bachelor's degree in Data Science, Statistics, Computer Science, or related field
+- 2+ years of experience in data analysis or business intelligence
+- Familiarity with R or Scala
+- Experience with Apache Spark or big data tools
+- Strong problem-solving and critical thinking skills
+- Excellent written and verbal communication
+
+We value candidates who are curious, detail-oriented, and passionate about data-driven decision-making.
