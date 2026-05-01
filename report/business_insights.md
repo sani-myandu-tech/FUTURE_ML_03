@@ -93,4 +93,3 @@ Every candidate report shows exactly which skills are missing. Interviewers can 
 
 ---
 
-*FUTURE_ML_03 | HireIQ | Business Insights Report | 2025*
